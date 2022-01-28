@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/django_base.iml" filepath="$PROJECT_DIR$/.idea/django_base.iml" />
+      <module fileurl="file://D:\pycharm_test1\.idea\pycharm_test1.iml" filepath="D:\pycharm_test1\.idea\pycharm_test1.iml" />
+    </modules>
+  </component>
+</project>
